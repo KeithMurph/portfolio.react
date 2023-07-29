@@ -8,16 +8,16 @@ const introdata = {
     title: "I’m Keith Murphy",
     animated: {
         first: "Full Stack Web Developer",
-        second: "I like making games",
+        second: "I design websites",
         third: "I develop mobile apps",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Seattle based Full Stack Web Developer, ready to bring your vision to life",
     your_img_url: "https://i.postimg.cc/L6d0pBvN/robert-ritchie-JEic-DFy5-Cd8-unsplash.jpg",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About Me",
+    aboutme: "Web Developer with a passion for learning and problem solving. Front-end focused, but I'm always looking to learn more about the back-end.Eager and ready to utilize my passion for tech and creating apps to follow a dream career. ⭐Graduate of the University of Washington Full-Stack Web Development Bootcamp.⭐",
 };
 
 
@@ -34,11 +34,11 @@ const skills = [{
         value: 80,
     },
     {
-        name: "React",
+        name: "Python",
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "Git",
         value: 85,
     },
 ];
@@ -104,12 +104,11 @@ const dataportfolio = [{
 
 ];
 
+// Email.js template sends email to keithmurphy.dev@gmail 
 const contactConfig = {
     YOUR_EMAIL: "keithmurphy.dev@gmail.com",
     YOUR_FONE: "(520)891-2082",
     description: "",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_71knnd8",
     YOUR_TEMPLATE_ID: "template_dyqkm2a",
     YOUR_USER_ID: "c7Opcz71Vuwxt-QXz",
