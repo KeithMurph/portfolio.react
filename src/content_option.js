@@ -43,64 +43,50 @@ const skills = [{
     },
 ];
 
-
+// Fix image sizing and spacing, add links and descriptions // Add a Title to each project // 
 const dataportfolio = [{
         img: "https://i.postimg.cc/dV4nsphQ/Screenshot-2022-04-08-034350.jpg",
         title: "There and Back Again",
         description: "Interactive Travel app, Log Miles on your way to Mordor.",
         link: "#",
-        repo: "#",
+        repo: "https://github.com/ksapir/There-And-Back-Again",
     },
     {
         img: "https://i.postimg.cc/qvKMV29S/smartcam-Screen-04-11-092934.jpg",
-        title:"",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-        repo: "#",
+        title:"TensorFlow SmartCam",
+        description: "AI image recognition app, built with TensorFlow.",
+        link: "https://keithmurph.github.io/tensorFlowSmartCam/",
+        repo: "https://github.com/KeithMurph/tensorFlowSmartCam",
     },
     {
         img: "https://i.postimg.cc/NMKZ2J0F/Screenshot-2021-08-22-204634.png",
-        title: "",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        title: "Budget Tracker",
+        description: "Enter deposits and expenses offline, when brought back online, the app will update with the new data.",
         link: "#",
-        repo: "#",
+        repo: "https://github.com/KeithMurph/budgetTrackerPWA",
     },
     {
         img: "https://i.postimg.cc/BvRTt043/Screenshot-2022-04-08-030622.jpg",
-        title: "",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-        repo: "#",
+        title: "Live Code Editor",
+        description: "Live Code Editor with HTML, CSS, and JavaScript.",
+        link: "https://keithmurph.github.io/codeEditor/",
+        repo: "https://github.com/KeithMurph/codeEditor",
     },
     {
         img: "https://i.postimg.cc/ydprVFXK/Screenshot-2021-08-24-234915.png",
-        title: "",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        title: "Perfect Home",
+        description: "Pet finder App",
         link: "#",
-        repo: "#",
+        repo: "https://github.com/KeithMurph/PerfectHome",
     },
     {
         img: "https://i.postimg.cc/NfWdkFt9/Screenshot-2022-02-04-102616.png",
-        title: "",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        title: "Wordle Clone",
+        description: "Wordle Clone",
         link: "#",
-        repo: "#",
+        repo: "https://github.com/KeithMurph/Wordle",
     },
 
-    // {
-    //     img: "https://i.postimg.cc/hj0Qxr3F/Screenshot-2021-08-26-005304.png",
-    //     title: "",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    //     repo: "#",
-    // },
-    // {
-    //     img: "https://i.postimg.cc/hj0Qxr3F/Screenshot-2021-08-26-005304.png",
-    //     title: "",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    //     repo: "#",
-    // },
 
 ];
 
