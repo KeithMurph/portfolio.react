@@ -94,6 +94,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "keithmurphy.dev@gmail.com",
     YOUR_FONE: "(520)891-2082",
+    YOUR_RESUME: "https://docs.google.com/document/d/e/2PACX-1vRogavZ2FFyA73x5aTf84Cgzq5Q89Apy23vSsgg1buuj3-_Fsbe16XBe1tpFfHpcA/pub",
     description: "",
     YOUR_SERVICE_ID: "service_71knnd8",
     YOUR_TEMPLATE_ID: "template_dyqkm2a",

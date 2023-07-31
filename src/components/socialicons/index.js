@@ -3,7 +3,6 @@ import "./style.css";
 import {
   FaGithub,
   FaLinkedin,
-  FaYoutube,
 } from "react-icons/fa";
 import { socialprofils } from "../../content_option";
 

@@ -101,6 +101,25 @@ export const ContactUs = () => {
               </a>
               <br />
               <br />
+              
+           
+              <h2 className="contact">
+          Resume
+          <a
+            className="col-md-4"
+            href="https://docs.google.com/document/d/1ywlARzSpTWyw-HxSSrq_jYT5l3Wws4St/edit"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img 
+            className="contact-icon"
+              src="https://img.icons8.com/bubbles/100/000000/resume.png"
+              alt="resume"
+            />
+          </a>
+        </h2>
+              <br />
+            
               {contactConfig.hasOwnProperty("YOUR_FONE") ? (
                 <p>
                   <strong>Phone:</strong> {contactConfig.YOUR_FONE}
